@@ -366,6 +366,9 @@ my %controllees = (
              s => { 130 => 's' },
              t => { 130 => 't' },
     },
+    945 => { a => { 145 => 'a' },
+             c => { 145 => 'c' },
+    },
 );
 
 foreach my $rec_id (@records) {
